@@ -1,4 +1,3 @@
-
 # bmstu_2_sem_differential-equations
 
 
@@ -24,7 +23,7 @@ This repository contains several Python scripts and Jupyter notebooks for numeri
   - A class `SecondOrderODESolver` that includes methods to set up and solve the differential equations.
 - **Usage**: Open the notebook in Jupyter and follow the provided steps to solve second-order ODEs.
 
-### 3.Second-Order ODE Solver (13.ipynb)
+### 3.Second-Order ODE Solver (12.ipynb)
 - **Description**: This notebook provides a numerical solution for second-order ordinary differential equations (ODEs) using the Runge-Kutta 4th order (RK4) method.
 - **Contents**:
     - Import statements for numpy and matplotlib.pyplot.
