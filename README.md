@@ -1,8 +1,6 @@
-Вот форматированный README файл, который можно скопировать и вставить:
 
----
+# bmstu_2_sem_differential-equations
 
-# Project README
 
 ## Overview
 
