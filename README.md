@@ -61,7 +61,8 @@ To use the notebooks and scripts in this repository, follow these steps:
 2. **Install the necessary packages**:
    Ensure you have `numpy` and `matplotlib` installed. You can install them using pip:
    ```sh
-   pip install numpy matplotlib
+   pip install numpy
+   pip install matplotlib
    ```
 
 3. **Run the notebooks**:
@@ -70,7 +71,7 @@ To use the notebooks and scripts in this repository, follow these steps:
    - Open the desired `.ipynb` file and run the cells sequentially.
 
 4. **Run the Python script**:
-   - Execute the `import numpy as np.py` script in a Python environment:
+   - Execute the `mathmodel.py` script in a Python environment:
      ```sh
-     python import\ numpy\ as\ np.py
+     python mathmodel.py
      ```
